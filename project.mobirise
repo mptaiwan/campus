@@ -2633,7 +2633,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "这里输入标题",
-                "active": false
+                "active": true
               },
               {
                 "tags": "响应式",
@@ -2724,7 +2724,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "这里输入标题",
-                "active": true
+                "active": false
               }
             ]
           }
