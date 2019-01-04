@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page5.html",
+    "currentPage": "salary.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4279,9 +4279,9 @@
         }
       ]
     },
-    "page5.html": {
+    "salary.html": {
       "settings": {
-        "meta_descr": "依據企業目標科系/學校以及人才需求，打造客制化企業新鮮人招募計畫。",
+        "meta_descr": "提供您最快、最正確、最可靠的計薪外包服務，為您省時、省力、省成本。",
         "title": "計薪服務",
         "order": 3
       },
